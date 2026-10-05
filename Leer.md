@@ -1,0 +1,1 @@
+AgroCore es un sistema de gestión agropecuaria para Urabá que permite administrar productos, inventario por sede, ventas y facturas, además de generar alertas cuando el stock es bajo o se agota. Integra las sedes de Apartadó y Chigorodó con una base de datos SQL y ofrece operación sin conexión.
